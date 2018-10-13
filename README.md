@@ -1,6 +1,8 @@
 # Original post
 [Artikel](http://semangatkecil.blogspot.com/2018/09/menelisik-komponen-kebahasaan-untuk.html)
 
+![alt text](fonem.jpg)
+
 # Unsur kebahasaan 
 1. Wacana : n Ling satuan bahasa terlengkap yang direalisasikan dalam bentuk karangan atau laporan utuh, seperti novel, buku, artikel, pidato, atau khotbah
 1. Paragraf : n bagain bab dalam suatu karangan (biasanya mengandung satu ide pokok dan penulisannya dimulai dengan garis baru); alinea
