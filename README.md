@@ -15,9 +15,9 @@
 1. Fonem : n Ling satuan bunyi terkecil yang mampu menunjukkan kontras makna (misalnya / h/ adalahfonem karena membedakan makna kata harus dan arus, /b/ dan /p/ adalah dua fonem yang berbeda karena bara dan para beda makna.
 
 # Fonem Bahasa Indonesia
-|   |             |                            |                |   |           |                          |                             |
-|:----------------------:|:-----------:|:--------------------------:|:--------------:|---|-----------|--------------------------|-----------------------------|
-|           No           | Google Site | | Tata bahasa baku B.Ind | | 33 fonem B.Ind | | | pelafalan |      contoh (tulis)      |        contoh (lafal)       |
+| No  |      Google Site       |      Tata bahasa baku B.Ind    |  33 fonem B.Ind   |   |     | pelafalan  |   contoh (tulis)  | contoh (lafal) |
+|:----------------------:|:-----------:|:--------------------------:|:--------------:|---|-----------|--------------------------|-----------------------------| ---|
+|                      |  | |  | |  | | |  |            |               |
 |            1           |      a      |              a             |        a       | | |     a     |      air adik kanvas     |    /air/ /adik/ /kanvas/    |
 |            2           |      au     |                            |       aw       | | |     aw    |        kalau - kau       |       /kalaw/ - /kaw/       |
 |            3           |      ai     |                            |       ay       | | |     ay    |         intai - -        |         /intay/ - -         |
