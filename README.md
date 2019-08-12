@@ -63,9 +63,8 @@
 
 
 # Transformasi fonem
-|  |            |       |                                                  |                                        |
-|:------------------------------------:|------------|-------|--------------------------------------------------|----------------------------------------|
 |                  No                  |    Huruf   | Bunyi |                    contoh baca                   |              contoh tulis              |
+|:------------------------------------:|------------|-------|--------------------------------------------------|----------------------------------------|
 | 1                                    |      b     |  [b]  | /baru/,/tambal/                                  | baru, tambal                           |
 |                                      |            |  [pֿ] | /adap ֿ/, /pәradaban/                            | adab, peradaban                        |
 | 2                                    |      c     |  [c]  | /cari/, /pici/, /caciη/, /pincaη/                | cari, pici, cacing, pincang            |
@@ -100,9 +99,8 @@
 
 
 # Gugus
-|    |       |                                        |
-|----|-------|----------------------------------------|
 | No | Gugus | Contoh                                 |
+|----|-------|----------------------------------------|
 | 1  | /pl/  | pleonasme, pleno, kompleks, taplak     |
 | 2  | /bl/  | blangko, Blambangan, gemblang          |
 | 3  | /kl/  | klinik, klimaks, klasik                |
@@ -128,9 +126,8 @@
 | 23 | /sk/  | skala, skema, skandal                  |
 
 # Deret vokal
-|  |             |                                                   |
-|:-----------:|-------------|---------------------------------------------------|
 |      No     | Deret Vokal |                       Contoh                      |
+|:-----------:|-------------|---------------------------------------------------|
 | 1           | /i u/       | /tiup/  tiup  /iur/  iur  /ňiur/  nyiur           |
 | 2           | /i o/       | /kios/  kios  /radio/  radio  /biola/  biola      |
 | 3           | /i a/       | /tiap/  tiap  /dia/  dia  /giat/  giat            |
@@ -153,9 +150,8 @@
 | 20          | /ә ә/       | /kәәnam/ keenam                                   |
 
 # Deret konsonan
-|  |                |                              |    |                |                                 |
-|:-----:|----------------|------------------------------|----|----------------|---------------------------------|
 |   No  | Deret Konsonan |            Contoh            | No | Deret Konsonan |              Contoh             |
+|:-----:|----------------|------------------------------|----|----------------|---------------------------------|
 | 21    | /m p/          | empat, pimpin, tampuk        | 51 | /? w/          | dakwa, dakwah, takwa            |
 | 22    | /m b/          | ambil, gambar, ambang        | 52 | /p t/          | sapta, optik, baptis            |
 | 23    | /n t/          | untuk, ganti, pintu          | 53 | /h t/          | sejahtera, tahta, bahtera       |
@@ -188,9 +184,8 @@
 | 50    | /? y/          | rakyat                       |    |                |                                 |
 
 # Format silabel
-|  |        |                                        |
-|:-------------------------------:|:------:|:--------------------------------------:|
 |                No               | Format |                 Contoh                 |
+|:-------------------------------:|:------:|:--------------------------------------:|
 | 1                               | V      | /a/-ku                                 |
 | 2                               | KV     | /bu/-ku, /ra/-gam, /se/-petu, /ra/-nun |
 | 3                               | VK     | /im/-an, /in/-dah, /ar/-sip, /un/-tung |
